@@ -77,7 +77,13 @@ img{max-width:100%;display:block}
   display:flex;align-items:stretch;overflow:hidden;
   border-bottom:1px solid var(--border);
 }
-.hero-slides{position:absolute;inset:0}
+.hero-slides{
+  position:absolute;
+  inset:0;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
 .hero-slide{
   position:absolute;inset:0;
   background-size:cover;background-position:center;
