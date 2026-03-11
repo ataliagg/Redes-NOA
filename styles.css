@@ -98,12 +98,12 @@ img{max-width:100%;display:block}
     radial-gradient(900px 420px at 18% 28%, rgba(255,255,255,.72), rgba(255,255,255,.16) 55%, rgba(255,255,255,.02) 70%),
     linear-gradient(180deg, rgba(11,18,32,.58), rgba(11,18,32,.10) 35%, rgba(255,255,255,.92));
 }
-.hero-slide.s1{background-image:url("fotos/hermosaaaaa.jpeg");animation-delay:0s}
-.hero-slide.s2{background-image:url("fotos/pile.jpeg");animation-delay:4s}
-.hero-slide.s3{background-image:url("fotos/foto14.jpg");animation-delay:8s}
-.hero-slide.s4{background-image:url("fotos/foto31.jpg");animation-delay:12s}
-.hero-slide.s5{background-image:url("fotos/nosotros.jpg");animation-delay:16s}
-.hero-slide.s6{background-image:url("fotos/foto43.jpg");animation-delay:20s}
+.hero-slide.s1{background-image:url(".../fotos/hermosaaaaa.jpeg");animation-delay:0s}
+.hero-slide.s2{background-image:url(".../fotos/pile.jpeg");animation-delay:4s}
+.hero-slide.s3{background-image:url(".../fotos/foto14.jpg");animation-delay:8s}
+.hero-slide.s4{background-image:url(".../fotos/foto31.jpg");animation-delay:12s}
+.hero-slide.s5{background-image:url(".../fotos/nosotros.jpg");animation-delay:16s}
+.hero-slide.s6{background-image:url(".../fotos/foto43.jpg");animation-delay:20s}
 
 @keyframes heroFade{
   0%{opacity:0}
