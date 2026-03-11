@@ -810,8 +810,3 @@ input:focus,select:focus,textarea:focus{
   .shot:nth-child(n){grid-column:span 12}
   .shot img{height:220px}
 }
-
-
-.espaciochico{
-  margin-top:30px;
-}
