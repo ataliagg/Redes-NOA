@@ -621,11 +621,11 @@ input:focus,select:focus,textarea:focus{
   transform:translateY(-50%);
   z-index:10;
 
-  background:transparent;
+  background:shadow;
   border:none;
 
   color:var(--blue3);
-  font: size 26px;
+  font: size 40px;
   font-weight:700;
 
   cursor:pointer;
